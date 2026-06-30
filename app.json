@@ -1,0 +1,24 @@
+{
+  "name": "Cinderella PW Extractor",
+  "description": "Physics Wallah & Classplus Content Extractor Bot",
+  "repository": "https://github.com/devms786178-lgtm/Cinderella-pwcpextractor",
+  "env": {
+    "API_ID": {
+      "description": "Your Telegram API ID",
+      "required": true
+    },
+    "API_HASH": {
+      "description": "Your Telegram API Hash",
+      "required": true
+    },
+    "BOT_TOKEN": {
+      "description": "Your Bot Token from @BotFather",
+      "required": true
+    }
+  },
+  "buildpacks": [
+    {
+      "url": "heroku/python"
+    }
+  ]
+}

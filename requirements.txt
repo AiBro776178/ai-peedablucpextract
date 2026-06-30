@@ -1,0 +1,12 @@
+aiohttp
+pyrogram
+pyromod
+tgcrypto
+flask
+pycryptodome
+requests
+colorama
+PyJWT
+aiogram
+cloudscraper
+Pillow
